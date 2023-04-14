@@ -1,9 +1,3 @@
-'''
-Jakub Kuczmarski
-nr indeksu 297300
-grupa pt 10-12
-'''
-
 import random
 from abc import ABC, abstractmethod
 import matplotlib.pyplot as plt
